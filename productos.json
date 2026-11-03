@@ -1,0 +1,19 @@
+{
+"products":[
+    {
+        "id": 1,
+        "nombre": "Arroz",
+        "precio": 3000,
+        "stock": 10
+    },
+
+    {
+        "id": 2,
+        "nombre": "Huevo",
+        "precio": 600,
+        "stock": 30
+    }
+
+    
+]
+}
