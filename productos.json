@@ -1,19 +1,155 @@
 {
-"products":[
+  "products": [
     {
-        "id": 1,
-        "nombre": "Arroz",
-        "precio": 3000,
-        "stock": 10
+      "nombre": "Arrozito",
+      "stock": "20",
+      "precio": "3000",
+      "id": "1"
     },
-
     {
-        "id": 2,
-        "nombre": "Huevo",
-        "precio": 600,
-        "stock": 30
+      "nombre": "Huevito",
+      "stock": "30",
+      "precio": "600",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "Lentejas",
+      "precio": 1200,
+      "stock": 12
+    },
+    {
+      "id": "4",
+      "nombre": "Frijoles",
+      "precio": 2500,
+      "stock": 35
+    },
+    {
+      "id": "5",
+      "nombre": "Leche",
+      "precio": 25000,
+      "stock": 21
+    },
+    {
+      "nombre": "la cebolla",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "N65ZaU1prpg"
+    },
+    {
+      "nombre": "la cebolla",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "pj5YbtmXe04"
+    },
+    {
+      "nombre": "la cebolla",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "kawViNvGhv8"
+    },
+    {
+      "nombre": "poni",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "wEuUkhwlDME"
+    },
+    {
+      "nombre": "poni",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "UCA2x_B3nak"
+    },
+    {
+      "nombre": "poni",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "menJ-w1FGL8"
+    },
+    {
+      "nombre": "kuo",
+      "stock": "30",
+      "precio": "99",
+      "id": "1xKu94nS2O8"
+    },
+    {
+      "nombre": "kuo",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "W486Va8h80I"
+    },
+    {
+      "nombre": "kuo",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "3cUIMtodwYY"
+    },
+    {
+      "nombre": "kuo",
+      "stock": "300000",
+      "precio": "19999999",
+      "id": "tIW8HtegIOw"
+    },
+    {
+      "nombre": "mrai",
+      "stock": "123",
+      "precio": "2342",
+      "id": "8BKrDZizJD4"
+    },
+    {
+      "nombre": "mrai",
+      "stock": "123",
+      "precio": "2342",
+      "id": "ONES9c7ffRw"
+    },
+    {
+      "nombre": "Arrozito",
+      "stock": "10",
+      "precio": "67",
+      "id": "VMzJHyTUth0"
+    },
+    {
+      "nombre": "Arrozito",
+      "stock": "10",
+      "precio": "67",
+      "id": "l3wdpk2TC8M"
+    },
+    {
+      "nombre": "Arrozito",
+      "stock": "10",
+      "precio": "67",
+      "id": "TzcjRLco1YI"
+    },
+    {
+      "nombre": "Arrozito",
+      "stock": "10",
+      "precio": "67",
+      "id": "FIyGIFQUUKI"
+    },
+    {
+      "nombre": "Arrozito",
+      "stock": "10",
+      "precio": "67",
+      "id": "zEllLM0EDNw"
+    },
+    {
+      "nombre": "Arrozito",
+      "stock": "10",
+      "precio": "67",
+      "id": "8ePNpFXPFcU"
+    },
+    {
+      "nombre": "Arroz",
+      "stock": "20",
+      "precio": "3000",
+      "id": "jJpHYzWq5ZM"
+    },
+    {
+      "nombre": "Arroz",
+      "stock": "20",
+      "precio": "3000",
+      "id": "TepV6RoC6NU"
     }
-
-    
-]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

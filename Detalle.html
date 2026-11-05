@@ -1,0 +1,17 @@
+<div id="detalleProducto"></div>
+
+<script src="Script.js"></script>
+<script>
+    async function pintarDetalle() {
+        let params = new URLSearchParams(window.location.search);
+        let id = params.get("id");
+        let producto = await productosPorId(id)
+        let detalleProducto = document.getElementById("detalleProducto")
+        detalleProducto.innerHTML = `<p>
+            ID: ${producto.id} -
+            Precio: $${producto.precio} -
+            Stock: ${producto.stock} -
+            </p>`
+    }
+    pintarDetalle()
+</script>
